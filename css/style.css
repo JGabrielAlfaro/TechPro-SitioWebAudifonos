@@ -372,6 +372,7 @@ img {
     background-position: top center;
     background-repeat: no-repeat;
     background-size: 100%, 70rem;
+    margin-bottom: 15rem;
 }
 .notavif.notwebp .newsletter {
     background-image: linear-gradient( to bottom, transparent 50%, var(--blanco) 0% ), url(../img/newsletter.jpg) ;
@@ -448,11 +449,13 @@ img {
     font-size: 2rem;
     font-weight: 900;
     border: none;
+    
 }
 
 /* Footer */
 
 .footer p {
+   
     text-align: center;
     font-family: var(--fuenteSegundaria);
     text-transform: uppercase;
